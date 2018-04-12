@@ -1,0 +1,14 @@
+open "git GUI"
+open recent project/browse to folder 
+Remote->fetch from->origin
+merge->local merge
+click merge on popup
+
+//do work
+
+rescan  (to refresh and see your changes)
+stage changed 
+add message to commit message box
+commit
+push
+click push on popup and provide username and password
